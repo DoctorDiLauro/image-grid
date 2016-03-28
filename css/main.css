@@ -25,6 +25,7 @@ body {
 img {
   float: left;
   width: 100%;
+  display: block;
 }
 
 section img:nth-child(2) {
